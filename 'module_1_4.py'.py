@@ -1,4 +1,4 @@
-my_string = input('Вашt ФИО :  ')
+my_string = input('Ваш ФИО :  ')
 print((len(my_string)))
 print(my_string.upper())
 print(my_string.lower())
